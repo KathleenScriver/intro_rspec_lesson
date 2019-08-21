@@ -1,0 +1,7 @@
+<section>
+  <% @cats.each do |cat| %>
+    <p><%= cat.name %> - <%= cat.breed %></p>
+  <% end %>
+</section>
+
+<%= link_to "Add a Cat", new_cat_path %>
