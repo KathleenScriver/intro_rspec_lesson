@@ -2,7 +2,7 @@
 
 ## Getting Setup
 - The easiest way to get setup for using RSpec is to start your new rails app with the `-T` tag.
-- If you didn't do this, there are tons of resources for configuring your Rails project with RSpec. Do a google search for a blog or instructions on converting.
+- If you didn't do this, there are tons of resources for configuring your Rails project with RSpec. Do a google search for a blog or instructions on converting. [Like this blog post](https://medium.com/@amliving/my-rails-rspec-set-up-6451269847f9)
 
 If you started your Rails project with the `-T` flag, follow these steps to get RSpec setup:
   - install these gems to the `:test, :development` block in your Gemfile:
