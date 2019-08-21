@@ -7,6 +7,7 @@ describe 'Cats Index' do
     cat_3 = Cat.create(name: "Kitty", breed: "Tabby")
 
     visit cats_path
+    
 
     expect(page).to have_content(cat_1.name)
     expect(page).to have_content(cat_2.name)

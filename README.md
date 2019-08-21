@@ -107,6 +107,10 @@ With your partner, pick a lab from Learn, open the Github repo, look at the spec
   - What is this test looking for?
   - Using these examples, as well as the [Capybara Docs](https://github.com/teamcapybara/capybara) (for syntax and keywords), work with your partner to write a spec to test that a user can fill out the new cat form and can successfully create a new cat.
 
+   Other Resources:
+    - [Capybara Cheat Sheet](https://gist.github.com/zhengjia/428105)
+    - [Another Cheat Sheet](https://devhints.io/capybara)
+
 ## Deliverable
 
 Slack to me:
