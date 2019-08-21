@@ -1,5 +1,8 @@
 # Intro to RSpec
 
+## Warmup
+  - Take 3 minutes to write reasons _why_ we test. Also, jot down some ideas of _what_ we would want to test.
+
 ## Getting Setup
 - The easiest way to get setup for using RSpec is to start your new rails app with the `-T` tag.
 - If you didn't do this, there are tons of resources for configuring your Rails project with RSpec. Do a google search for a blog or instructions on converting.
