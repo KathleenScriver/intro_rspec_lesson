@@ -102,10 +102,9 @@ Each test file should start with `require rails_helper`.
 With your partner, pick a lab from Learn, open the Github repo, look at the spec files. Talk about a few tests.
   - Can you identify the setup, execution, and expectation sections?
   - What is this test looking for?
-  - Use one of these tests as an example to write another spec (`it` block) for our `cats_index_spec.rb`.
+  - Using these examples, as well as the [Capybara Docs](https://github.com/teamcapybara/capybara) (for syntax and keywords), work with your partner to write a spec to test that a user can fill out the new cat form and can successfully create a new cat.
 
-## Activity
+## Deliverable
 
-Look at the docs for Capybara commands.
-[Capybara Docs.](https://github.com/teamcapybara/capybara)
-Using this guide, work with your partner to write a spec to test that a user can fill out the new cat form and can successfully create a new cat.
+Slack to me:
+  - Inside an `it` block, what is the structure of a test? Include examples.
