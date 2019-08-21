@@ -5,7 +5,7 @@ describe 'Cats Index' do
     cat_1 = Cat.create(name: "Fluffy", breed: "Long-hair")
     cat_2 = Cat.create(name: "Bob", breed: "Long-hair")
     cat_3 = Cat.create(name: "Kitty", breed: "Tabby")
-
+    
     visit cats_path
     
 
